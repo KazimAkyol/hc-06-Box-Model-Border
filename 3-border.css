@@ -1,0 +1,45 @@
+
+
+.par1{
+    border: 10px solid blue;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.par2{
+    color: fuchsia;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: gray;
+}
+
+.par3{
+    border: 5px double teal;
+    /* border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px; */
+    border: 10px 0;
+}
+
+.par4{
+    border: 10px dotted blue;
+}
+
+.par5{
+    border: 5px groove red;
+    border-radius: 10px;
+}
+
+.par6{
+    border: 10px outset greenyellow;
+}
+
+.par7{
+    border: 3px dashed black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto;
+    box-sizing: border-box;
+    padding-top: 85px;
+    background-color: yellow;
+}
