@@ -1,0 +1,28 @@
+
+
+body{
+    margin: 20px;
+}
+
+
+h1{
+    background-color: olive;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+
+
+#par1{
+    background-color: lime;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+#par2{
+    background-color: purple;
+    margin: 0;
+    margin: 20px 30px 40px 50px;
+}
