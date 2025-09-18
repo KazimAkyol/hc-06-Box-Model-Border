@@ -1,15 +1,15 @@
-body{
+body {
     margin: 20px;
 }
 
-.container{
+.container {
     background-color: orange;
     /* border: 1px solid red; */
     padding: 10px;
 }
 
 
-h1{
+h1 {
     background-color: olive;
     margin: 0;
     /* margin-bottom: 10px;
@@ -21,7 +21,7 @@ h1{
 
 }
 
-#par1{
+#par1 {
     background-color: lime;
     margin: 0;
     /* margin-left: 20px;
@@ -33,7 +33,7 @@ h1{
     padding: 20px;
 }
 
-#par2{
+#par2 {
     background-color: purple;
     margin: 0;
     /* margin: 20px 30px 40px 50px; */
@@ -46,7 +46,7 @@ h1{
     padding: 10px 20px 30px 40px;
 }
 
-.btn-container{
+.btn-container {
     border: 2px solid red;
     /* text-align: center; */
     width: 101px;

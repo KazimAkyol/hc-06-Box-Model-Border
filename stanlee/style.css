@@ -1,9 +1,9 @@
-body{
+body {
     background-color: black;
     color: white;
 }
 
-.container{
+.container {
     /* border: 2px solid red; */
     width: 80%;
     margin: auto;
@@ -11,31 +11,31 @@ body{
     border-radius: 20px;
 }
 
-.heading{
+.heading {
     font-family: "Lobster", sans-serif;
 }
 
-#title{
+#title {
     font-size: 90px;
     text-align: center;
 }
 
-#span1{
+#span1 {
     color: red;
 }
 
-.img-div{
+.img-div {
     /* border: 2px solid red; */
     text-align: center;
 }
 
-#image{
+#image {
     width: 400px;
     border-radius: 40px;
     box-shadow: 5px 5px 500px red;
 }
 
-#info{
+#info {
     /* border: 2px solid red; */
     width: 80%;
     margin: auto;
@@ -43,33 +43,33 @@ body{
     font-size: 1.5rem;
 }
 
-#marvel{
+#marvel {
     color: red;
     margin-left: 10%;
 }
 
-ul{
+ul {
     /* border: 2px solid red; */
     width: 80%;
     margin: auto;
 
 }
 
-li{
+li {
     /* 1 rem 16px e esittir */
     font-size: 2rem;
     line-height: 3rem;
 
 }
 
-#footer{
+#footer {
     /* border: 2px solid red; */
     font-size: 2rem;
     padding: 2rem;
     text-align: center;
 }
 
-#link{
+#link {
     color: white;
     text-decoration: none;
     border: 2px solid darkorange;
@@ -79,7 +79,7 @@ li{
 
 }
 
-#link:hover{
+#link:hover {
     color: darkorange;
     background-color: rgb(40, 37, 37);
 }
